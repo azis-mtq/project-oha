@@ -1,2 +1,8 @@
+<div class="grid_12">
+    <div class="box round first fullpage">
+        <h2>Home</h2>
+        <div class="block "></div>
+    </div>
+</div>
 
-    <h1>Home</h1>
+<div class="clear"></div>
