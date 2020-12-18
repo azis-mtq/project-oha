@@ -1,8 +1,6 @@
 </div>
 
-    <div class="clear">
-
-    </div>
+    
 
     <div id="site_info">
 
@@ -14,9 +12,7 @@
 
     </div>
 
-  	<div id="demo-side-bar">
 
-   </div>
 
     </div>
 

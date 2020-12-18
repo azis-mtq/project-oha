@@ -5,18 +5,25 @@
 Grey Box Method - Layout CSS
 
 ----------------------------------------------- */
-
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
 
 
 body {
 
-	background: #fff;
+	background:#2E5E79;
 
 	color: #333;
 
 	font-size: 11px;
 
-	padding: 0 0 0px;
+	
+	position: relative;
+	padding-bottom: 36px;
+	min-height: 100vh;
 
 }
 
@@ -799,7 +806,7 @@ label.error
 }
 
 
-
+/* main ------------------- */
 
 
 
@@ -822,7 +829,9 @@ label.error
 
 	padding-left:20px;
 
-
+	position: absolute;
+	bottom: 0;
+	width: 100%;
 
 }
 
