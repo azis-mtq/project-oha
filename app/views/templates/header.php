@@ -191,8 +191,8 @@
         <div class="grid_12">
 
              <ul class="nav main">
-             <li><a class="active" href="#"><i class="fa fa-fw fa-home fa-lg"></i> Dashboard</a></li>
-             <li><a class="active" href="#"><i class="fa fa-fw fa-cloud-upload-alt fa-lg"></i> Loading</a></li>
+             <li><a class="active" href="<?= BASEURL; ?>/home"><i class="fa fa-fw fa-home fa-lg"></i> Dashboard</a></li>
+             <li><a class="active" href="<?= BASEURL; ?>/loading"><i class="fa fa-fw fa-cloud-upload-alt fa-lg"></i> Loading</a></li>
              <li><a class="active" href="#"><i class="fa fa-fw fa-cloud-download-alt fa-lg"></i> Unloading</a></li>
              <li><a class="active" href="#"><i class="fa fa-fw fa-cloud-sun fa-lg"></i> Drying</a></li>
 
